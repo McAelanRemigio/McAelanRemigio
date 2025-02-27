@@ -12,13 +12,10 @@
   - **Data Scientist** | **SDSU Research Foundation**  
   
 ## 🚀 Leadership & Initiatives
-- **Founder + Executive President** | **Data Science Initiative (DSI) at SDSU**  
+- **Founder + Executive President** | **Data Science Initiative SDSU**
+- **Executive President** | **Society of Statisticians & Actuaries SDSU**  
 - **Co-Founder + Data Analyst** | **GrowLuv SDSU**  
 
 ## 🔧 Technical Skills
 - **Programming:** Python, R, SQL
 - **Data Science:** Machine Learning, Predictive Modeling, Data Visualization
-
-## 📬 Contact & Links
-- **GitHub:** https://github.com/McAelanRemigio
-- **LinkedIn:** https://www.linkedin.com/in/mcaelan
