@@ -40,4 +40,4 @@ Hello! My name is McAelan Remigio, I am currently a 2nd year dual major in Stati
 
 ## 📬 Contact & Links
 - **GitHub:** [Github]([https://github.com/your-profile](https://github.com/McAelanRemigio))
-- **LinkedIn:** [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mcaelan/)
+- **LinkedIn:** [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/mcaelan/])_
