@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello! My name is McAelan Remigio, I am currently a 2nd year dual major in Statistics and Data Science B.S.
+# Completed: COPD, Top Music Metrics
+# Current: Book Query RAG Model, MPIE
 
 <!--
 **McAelanRemigio/McAelanRemigio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
