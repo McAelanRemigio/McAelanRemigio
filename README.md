@@ -8,8 +8,8 @@
 - **CORVD Computer, Information, and Data Sciences ORISE Fellow NCIRD Public Health** | **Centers for Disease Control and Prevention**  
   - *Youngest undergraduate (1st year) in CDC cohort with master's and PhD researchers*
   - Collaborated with WHO experts like Laura Hughes Baker & Peter Cook to optimize pandemic response strategies, codebase is not available due to privacy reasons
-- **Lead Data Scientist | Data Science Initiative Student Consulting Group**  
-  - **Data Scientist** | **SDSU Research Foundation**  
+- **Lead Data Scientist | Data Science Initiative Student Consulting Group**
+- **Data Scientist** | **SDSU Research Foundation**  
   
 ## 🚀 Leadership & Initiatives
 - **Founder + Executive President** | **Data Science Initiative SDSU**
