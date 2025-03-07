@@ -18,8 +18,8 @@
   - *Develop and presented 3 large data-driven reports based on 2 years of 300+ students' data and used their engagement metrics to facilitate well-informed decision-making using data visualizations and analytics after attending multiple workshops and events*
   - Analyze Fall 2023-2024 data from the Aztec Unity Project, Launch Into Leadership Program, and the Glazer Center Open House
 - **Data Analyst** | **SDSU**
-- Analyzed program impact data for the Center for Commuter Life to improve outreach strategies
-- Built dashboards and visualizations to track engagement and retention trends.
+  - Analyzed program impact data for the Center for Commuter Life to improve outreach strategies
+  - Built dashboards and visualizations to track engagement and retention trends.
   
 ## 🚀 Educational Experience
 - **Founder + Executive President** | **Data Science Initiative SDSU**
