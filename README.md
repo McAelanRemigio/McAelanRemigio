@@ -9,12 +9,14 @@
   - *Youngest undergraduate (1st year) in CDC cohort with master's and PhD researchers*
   - Collaborated with WHO experts like Laura Hughes Baker & Peter Cook to optimize pandemic response strategies, codebase is not available due to privacy reasons
 - **Lead Data Scientist | Data Science Initiative Student Consulting Group**
-- **Data Scientist** | **SDSU Research Foundation**  
+- **Data Scientist** | **SDSU Research Foundation**
   
-## 🚀 Leadership & Initiatives
+## 🚀 Educational Experience
 - **Founder + Executive President** | **Data Science Initiative SDSU**
 - **Executive President** | **Society of Statisticians & Actuaries SDSU**  
-- **Co-Founder + Data Analyst** | **GrowLuv SDSU**  
+- **Co-Founder + Data Analyst** | **GrowLuv SDSU**
+- **Data Scientist** | **Artificial Intelligence Club SDSU**
+- **Data Engineer** | **World Computing Organization SDSU**
 
 ## 🔧 Technical Skills
 - **Programming:** Python, R, SQL
