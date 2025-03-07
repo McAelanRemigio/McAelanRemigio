@@ -10,6 +10,8 @@
   - Collaborated with WHO experts like Laura Hughes Baker & Peter Cook to optimize pandemic response strategies, codebase is not available due to privacy reasons
 - **Lead Data Scientist | Data Science Initiative Student Consulting Group**
 - **Data Scientist** | **SDSU Research Foundation**
+- **Data Analyst Intern** | **SDSU**
+- **Data Analyst** | **SDSU**
   
 ## 🚀 Educational Experience
 - **Founder + Executive President** | **Data Science Initiative SDSU**
