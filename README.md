@@ -30,6 +30,8 @@
   
 ## 🚀 Extracurriculars
 - **Founder + Executive President** | **Data Science Initiative SDSU**
+  - https://linktr.ee/dsisdsu
+  - https://sites.google.com/view/sdsudatascienceinitiative/
 - **Executive President** | **Society of Statisticians & Actuaries SDSU**  
 - **Co-Founder + Data Analyst** | **GrowLuv SDSU**
 - **Data Scientist** | **Artificial Intelligence Club SDSU**
