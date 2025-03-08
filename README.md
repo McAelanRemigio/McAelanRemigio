@@ -4,7 +4,7 @@
 - I’m a second-year Data Science & Statistics student at San Diego State University
 - I’m passionate about applying data science to real-world problems
 - I’ve done research for projects in public health, education, and sports analytics, using tools like Python, R, and SQL
-- I enjoy collaborating with teams to solve complex challenges and always look for opportunities to learn and grow in the field.
+- I enjoy collaborating with teams to solve complex challenges and always look for opportunities to learn and grow in the field
 
 ## 🎓 Education
 - **San Diego State University (SDSU)**  
