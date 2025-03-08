@@ -46,8 +46,3 @@
 ## 🔧 Technical Skills
 - **Programming:** Python, R, SQL, SAS
 - **Data Science:** Machine Learning, Predictive Modeling, Data Visualization
-
-*.py linguist-language=Python
-*.R linguist-language=R
-*.sql linguist-language=SQL
-*.sas linguist-language=SAS
