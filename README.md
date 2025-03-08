@@ -44,5 +44,10 @@
   - AI-BBall-Scouting-Tool: A tool designed to analyze SDSU Men's Basketball team player performance using AI to optimize player selection and team strategies
 
 ## 🔧 Technical Skills
-- **Programming:** Python, R, SQL
+- **Programming:** Python, R, SQL, SAS
 - **Data Science:** Machine Learning, Predictive Modeling, Data Visualization
+
+*.py linguist-language=Python
+*.R linguist-language=R
+*.sql linguist-language=SQL
+*.sas linguist-language=SAS
