@@ -32,8 +32,10 @@
 - **Founder + Executive President** | **Data Science Initiative SDSU**
   - https://linktr.ee/dsisdsu
   - https://sites.google.com/view/sdsudatascienceinitiative/
-- **Executive President** | **Society of Statisticians & Actuaries SDSU**  
+- **Executive President** | **Society of Statisticians & Actuaries SDSU**
+  - https://linktr.ee/ssasdsu
 - **Co-Founder + Data Analyst** | **GrowLuv SDSU**
+  - https://linktr.ee/sdsugrowluv
 - **Data Scientist** | **Artificial Intelligence Club SDSU**
   - https://github.com/McAelanRemigio/Better-Book-Query
   - Better-Book-Query: A tool designed to improve the way students search and query books within the SDSU library using NLP techniques
