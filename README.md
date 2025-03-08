@@ -33,11 +33,11 @@
 - **Executive President** | **Society of Statisticians & Actuaries SDSU**  
 - **Co-Founder + Data Analyst** | **GrowLuv SDSU**
 - **Data Scientist** | **Artificial Intelligence Club SDSU**
- - https://github.com/McAelanRemigio/Better-Book-Query
- - Better-Book-Query: A tool designed to improve the way students search and query books within the SDSU library using NLP techniques
+  - https://github.com/McAelanRemigio/Better-Book-Query
+  - Better-Book-Query: A tool designed to improve the way students search and query books within the SDSU library using NLP techniques
 - **Data Engineer** | **World Computing Organization SDSU**
- - https://github.com/McAelanRemigio/AI-BBall-Scouting-Tool
- - AI-BBall-Scouting-Tool: A tool designed to analyze SDSU Men's Basketball team player performance using AI to optimize player selection and team strategies
+  - https://github.com/McAelanRemigio/AI-BBall-Scouting-Tool
+  - AI-BBall-Scouting-Tool: A tool designed to analyze SDSU Men's Basketball team player performance using AI to optimize player selection and team strategies
 
 ## 🔧 Technical Skills
 - **Programming:** Python, R, SQL
