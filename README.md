@@ -19,14 +19,14 @@
   - *Lead 2 teams of 16 interns, working on the Phi Beta Delta Honors Society Project to increase student recruitment*
 - **Data Scientist** | **SDSU Research Foundation**
   - *Conduct Track 1 Project research at an R1 university in collaboration with the National Science Foundation*
-  - Analyze 10,000+ HSI student data using R to identify trends in retention and academic success.
+  - Analyze 10,000+ HSI student data using R to identify trends in retention and academic success
   - https://github.com/McAelanRemigio/MPIE 
 - **Data Analyst Intern** | **SDSU**
   - *Develop and presented 3 large data-driven reports based on 2 years of 300+ students' data and used their engagement metrics to facilitate well-informed decision-making using data visualizations and analytics after attending multiple workshops and events*
   - Analyze Fall 2023-2024 data from the Aztec Unity Project, Launch Into Leadership Program, and the Glazer Center Open House
 - **Data Analyst** | **SDSU**
   - Analyzed program impact data for the Center for Commuter Life to improve outreach strategies
-  - Built dashboards and visualizations to track engagement and retention trends.
+  - Built dashboards and visualizations to track engagement and retention trends
   
 ## 🚀 Extracurriculars
 - **Founder + Executive President** | **Data Science Initiative SDSU**
