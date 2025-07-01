@@ -11,8 +11,6 @@
 - **Computer, Information, and Data Sciences ORISE Fellow NCIRD Public Health** | **Centers for Disease Control and Prevention**  
 - **Lead Data Scientist | Data Science Initiative Student Consulting Group SDSU**
 - **Data Scientist** | **SDSU Research Foundation**
-  - https://github.com/McAelanRemigio/MPIE 
 - **Data Analyst** | **SDSU Student Life & Leadership**
 - **Astronomical Data Scientist** | **Vera C. Rubin Observatory**
-  - https://github.com/McAelanRemigio/VeraRubin
 - **Operations & Resources Analyst** | **SDSU Career Services**
