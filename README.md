@@ -5,7 +5,7 @@ If you're new to my work:
 - 🛰️ **End-to-End Research Pipeline:** VeraRubin  
   Reproducible astronomical data analysis using Rubin Observatory data.
 - 📚 **How I Learn & Document:** SDSU_Undergraduate_Career  
-  Applied data science coursework, projects, and leadership work at SDSU.
+  Applied data science, projects, and leadership work at SDSU
 
 
 ## 👨‍💻 About Me
