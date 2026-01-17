@@ -1,13 +1,5 @@
 # McAelan Remigio - Data Science Portfolio
 
-## Start Here 👋
-If you're new to my work:
-- 🛰️ **End-to-End Research Pipeline:** VeraRubin  
-  Reproducible astronomical data analysis using Rubin Observatory data.
-- 📚 **How I Learn & Document:** SDSU_Undergraduate_Career  
-  Applied data science, projects, and leadership work at SDSU
-
-
 ## 👨‍💻 About Me
 - Third-year Data Science & Statistics student at San Diego State University focused on data-driven operations, strategy, and decision-making
 - Interested in building reproducible data pipelines and analyses that create depth, leverage, and measurable impact
