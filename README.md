@@ -19,4 +19,4 @@
 - **Astronomical Data Scientist** | **Vera C. Rubin Observatory**  
   ↳ Technical work archived [here](https://github.com/McAelanRemigio/VeraRubin)
 - **Operations & Resources Analyst** | **SDSU Career Services**  
-  ↳ Data & operations work through **CSDataTeam**: [here](https://github.com/CSDataTeam)
+  ↳ Data & operations work through[**CSDataTeam**:](https://github.com/CSDataTeam)
