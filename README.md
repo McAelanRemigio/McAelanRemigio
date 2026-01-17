@@ -10,7 +10,7 @@ If you're new to my work:
 
 ## 👨‍💻 About Me
 - Third-year Data Science & Statistics student at San Diego State University focused on data-driven operations, strategy, and decision-making
-- Interested in building systems that create depth, leverage, and measurable impact
+- Interested in building reproducible data pipelines and analyses that create depth, leverage, and measurable impact
 - Tools: Python, R, SQL, SAS
 
 
