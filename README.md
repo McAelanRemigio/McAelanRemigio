@@ -21,5 +21,5 @@
 - **Operations & Resources Analyst** | **SDSU Career Services**  
   ↳ Data & operations work through [**CSDataTeam**](https://github.com/CSDataTeam)
 
-![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=McAelanRemigio&theme=tokyonight&hide=Jupyter%20Notebook)
+![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=McAelanRemigio&theme=tokyonight&hide=Jupyter%20Notebook&hide=Jupyter%20Notebook,HTML,CSS)
 
