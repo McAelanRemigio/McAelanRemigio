@@ -20,3 +20,5 @@
   ↳ Technical work archived [here](https://github.com/McAelanRemigio/VeraRubin)
 - **Operations & Resources Analyst** | **SDSU Career Services**  
   ↳ Data & operations work through [**CSDataTeam**](https://github.com/CSDataTeam)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=McAelanRemigio&theme=tokyonight)
