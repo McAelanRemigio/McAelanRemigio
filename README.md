@@ -23,7 +23,5 @@
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=McAelanRemigio&theme=tokyonight&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=McAelanRemigio&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=McAelanRemigio&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook,HTML,CSS)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=McAelanRemigio&theme=tokyo-night)
