@@ -13,7 +13,8 @@
 ## 💼 Experience
 - **Data Scientist (ORISE Fellow, NCIRD)** | **Centers for Disease Control and Prevention**
 - **Astronomical Data Scientist** | **Vera C. Rubin Observatory**  
-  ↳ Technical work archived [here](https://github.com/McAelanRemigio/VeraRubin)
+  ↳ Full technical work located in [Vera Rubin](https://github.com/McAelanRemigio/VeraRubin)
+  ↳ Comprehensible data archived in [Vera Rubin Demo](https://github.com/McAelanRemigio/Rubin_Variable_Star_Workflow)
 - **Operations & Resources Analyst** | **SDSU Career Services**  
   ↳ Data & operations work through [**CSDataTeam**](https://github.com/CSDataTeam)
 - **Data Scientist** | **SDSU Research Foundation**  
