@@ -52,6 +52,7 @@ Focus: reliability, reproducibility, and scalable analytical workflows in public
 Technical Work:  
 
 ↳ Comprehensible data workflow pipeline in [Vera Rubin Demo](https://github.com/McAelanRemigio/Rubin_Variable_Star_Workflow)
+
 ↳ Full technical work located in [Vera Rubin](https://github.com/McAelanRemigio/VeraRubin)
 
 Focus: large-scale observational data, signal extraction, and statistical modeling.
