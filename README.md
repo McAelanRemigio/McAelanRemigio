@@ -24,6 +24,4 @@
   ↳ Project-based analyses documented in [Jeffrey W. Glazer Center for Leadership and Service](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Minor-Leadership-Development/Upper_Division/LEAD%20404%3A%20Leadership%20Internship%20and%20Career%20Readiness)
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=McAelanRemigio&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook,HTML,CSS)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=McAelanRemigio&theme=tokyo-night)
