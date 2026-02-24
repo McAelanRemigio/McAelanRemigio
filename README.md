@@ -25,4 +25,5 @@
 
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=McAelanRemigio&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook,HTML,CSS)
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=McAelanRemigio&theme=tokyo-night)
