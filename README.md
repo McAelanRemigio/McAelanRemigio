@@ -1,102 +1,85 @@
 # McAelan Remigio  
-### Scientific & Public Health Data Systems  
-*Statistical Modeling · Reproducible Pipelines · Large-Scale Observational Data*
+### Strategy & Operations · Data Analytics · Product & Program Analytics  
+*Workforce Analytics · Program Evaluation · Reproducible Pipelines · Decision-Ready Data Systems*
 
-Data Science & Statistics student at San Diego State University, building reproducible analytical systems for public health and scientific research.
+Statistics — Data Science student at San Diego State University, building analytical systems that turn complex data into clear, validated, decision-ready outputs.
 
-Experience designing data workflows and statistical models for:
-- **Epidemiological surveillance (CDC, NCIRD)**
-- **Astronomical time-series analysis (Vera C. Rubin Observatory)**
-- **Operational analytics in higher education systems**
-
-Primary focus: translating complex observational data into structured, validated, decision-ready outputs.
+My work spans **strategy & operations, public health surveillance, scientific research, and higher education analytics**, with a focus on data systems that support leadership, resource allocation, and program decisions.
 
 ---
 
-## 🔬 Technical Profile
+## Technical Profile
 
-**Languages**  
-Python · R · SQL · SAS  
-
-**Statistical Methods**  
-Regression (GLMs) · Time-Series Analysis · Statistical Inference · Classification Modeling  
-
-**Data Engineering**  
-ETL Workflows · Data Validation Frameworks · Reproducible Research Pipelines · Structured Data Extraction  
-
-**Core Libraries**  
-pandas · NumPy · tidyverse · scikit-learn  
+**Languages:** Python · R · SQL  
+**Analytics:** Workforce Analytics · Program Evaluation · KPI Reporting · Regression · Hypothesis Testing · Time-Series Analysis  
+**Tools:** Tableau · Power BI · Jupyter · Git · AWS · BigQuery  
+**Data Systems:** ETL Pipelines · Data Cleaning · Data Validation · Data Quality Auditing  
 
 ---
 
-## 🚀 Selected Work
+## Selected Experience
 
-### Epidemiological Data Systems  
-**Data Scientist — ORISE Fellow, CDC (NCIRD)**
+### Strategy & Operations Analytics  
+**SDSU Career Services — Operations & Resources Associate**
 
-- Built reproducible Python/SQL pipelines for ingestion and transformation of surveillance datasets  
-- Implemented structured validation checks to ensure reporting integrity across reporting cycles  
-- Supported analytical outputs used in epidemiological monitoring and operational reporting  
+- Led workforce analytics for a **$2M CSU initiative**, informing regional labor and funding allocation decisions  
+- Rebuilt **761K+ records across 100+ files** into a standardized, audit-ready pipeline for leadership reporting  
 
-Focus: reliability, reproducibility, and scalable analytical workflows in public health systems.
-
----
-
-### Astronomical Time-Series Pipeline  
-**Astronomical Data Scientist — Vera C. Rubin Observatory**
-
-- Designed end-to-end workflow for light-curve preprocessing and feature engineering  
-- Structured classification-ready datasets from raw observational signals  
-- Developed a reproducible analysis framework for variable star modeling
-
-Technical Work:  
-
-↳ Comprehensible data workflow pipeline in [Vera Rubin Demo](https://github.com/McAelanRemigio/Rubin_Variable_Star_Workflow)
-
-↳ Full technical work located in [Vera Rubin](https://github.com/McAelanRemigio/VeraRubin)
-
-Focus: large-scale observational data, signal extraction, and statistical modeling.
+↳ Team work: [CSDataTeam](https://github.com/CSDataTeam)
 
 ---
 
-### Operational & Resource Analytics  
-**Operations & Resources Analyst — SDSU Career Services**
+### Global Education Analytics  
+**SDSU Global Education Office — Data Assistant, Strategy & Operations**
 
-- Conducted structured analyses supporting student engagement and resource allocation decisions  
-- Contributed to collaborative internal data systems and reporting tools  
-
-Team Repository:  
-
-↳ Data & operations work through [**CSDataTeam**](https://github.com/CSDataTeam)
+- Support analytics for global education programs, student mobility, and program participation  
+- Maintain and validate datasets used to monitor access, outcomes, and operational planning  
 
 ---
 
-## 📈 Research & Applied Analytics
+### Scientific Data Systems  
+**NSF-DOE Vera C. Rubin Observatory — Data Science Researcher**
 
-**Data Scientist — SDSU Research Foundation**  
-Applied statistical analysis in research settings with emphasis on structured documentation and reproducibility.
+- Built Python/SQL pipelines for **3.5TB** of astronomical time-series data  
+- Improved classification accuracy to **94%** and delivered a technical demo for research stakeholders  
 
-Technical Work: 
-
-↳ Selected project work documented in [MPIE](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Major-Statistics-Data-Science-BS/Lower_Division/Foundational%20Courses%20%2B%20Artifacts/STAT%20200%3A%20Introduction%20to%20Data%20Science%20in%20R/External_Application/MPIE)
-
-**Data Analyst — SDSU Student Life & Leadership**  
-Project-based analytical support for organizational decision-making.
-
-Technical Work:
-
-↳ Project-based analyses documented in [Jeffrey W. Glazer Center for Leadership and Service](https://github.com/McAelanRemigio/SDSU_Undergraduate_Career/tree/main/Minor-Leadership-Development/Upper_Division/LEAD%20404%3A%20Leadership%20Internship%20and%20Career%20Readiness)
+↳ Demo: [Vera Rubin Workflow](https://github.com/McAelanRemigio/Rubin_Variable_Star_Workflow)  
+↳ Full work: [Vera Rubin](https://github.com/McAelanRemigio/VeraRubin)
 
 ---
 
-## 🎓 Education
+### Public Health Data Systems  
+**CDC — Data Science ORISE Fellow**
 
-**B.S. Data Science & Statistics**  
-San Diego State University  
-Expected May 2027  
+- Standardized global SARS-CoV-2 surveillance datasets using Python validation workflows  
+- Improved reporting consistency to approximately **99%** across international data sources  
 
 ---
 
-## 📊 GitHub Activity
+## Leadership
+
+**Founder & President — Data Science Initiative, SDSU**
+
+- Scaled SDSU’s first data science organization to **160+ members**  
+- Built partnerships placing **20+ students into industry roles**  
+
+---
+
+## Education
+
+**B.S. Statistics — Data Science**  
+San Diego State University · Expected May 2027  
+
+**Honors:** Daniel B. Nowak Outstanding Student Service Leadership Award · Mortar Board National College Honor Society  
+
+---
+
+## Focus Areas
+
+Strategy & Operations Analytics · Product & Program Analytics · Workforce Analytics · KPI Reporting · Data Quality Systems · AI-Enabled Analytics Workflows
+
+---
+
+## GitHub Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=McAelanRemigio&theme=tokyo-night)
